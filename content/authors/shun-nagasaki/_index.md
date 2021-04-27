@@ -24,17 +24,11 @@ interests:
 - Natural Language Processing
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: BS in Computer Science
+#    institution: University of Michigan
+#    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
