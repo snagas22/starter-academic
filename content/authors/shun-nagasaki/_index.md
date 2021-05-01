@@ -14,7 +14,7 @@ organizations:
   url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interestss include web development, mobile app development, artificial intelligence, and NLP.
+bio: Computer Science student at the University of Michigan. with interests in web development, mobile app development, artificial intelligence, and NLP.
 
 # Interests to show in About widget
 interests:
