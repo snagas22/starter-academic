@@ -65,7 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm Shun Nagasaki, a computer science student at the University of Michigan. His main interests include web development, mobile app development, and AI. My hobbies entail soccer, music, video editing, and programming. I'm most passionate about natural language processing and integration of technology into businesses for globalization.
+I'm Shun Nagasaki, a computer science student at the University of Michigan. My main interests include web development, mobile app development, and AI. My hobbies entail soccer, music, video editing, and programming. I'm most passionate about natural language processing and integration of technology into businesses for globalization.
 
 <!-- add here to append more description of myself -->
 
