@@ -28,7 +28,10 @@ experience:
     location: Ann Arbor, Michigan
     date_start: '2018-09-03'
     date_end: ''
-    description: Pursuing B.S. in Computer Science, Data Science, and minor in Linguistics.
+    description: |2-
+      B.S. in Computer Science
+      B.S. in Data Science
+      Minor in Linguistics
 
 #experience:
 #  - title: Student
