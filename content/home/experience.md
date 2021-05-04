@@ -29,9 +29,8 @@ experience:
     date_start: '2018-09-03'
     date_end: ''
     description: |2-
-      B.S. in Computer Science
-      B.S. in Data Science
-      Minor in Linguistics
+      * B.S. in Computer Science, Data Science
+      * Minor in Linguistics
 
 #experience:
 #  - title: Student
