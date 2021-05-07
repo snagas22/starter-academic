@@ -3,6 +3,7 @@ title: JSA Website
 summary: A website for Japan Student Association at the University of Michigan.
 tags:
 - Web Development
+- Club
 date: "2020-08-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,5 +30,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-This is just temporary. Will direct it to an external link (the actual website) later.
