@@ -6,7 +6,7 @@ tags:
 date: "2020-08-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://www.umich.edu/~umjsaofficial/"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
