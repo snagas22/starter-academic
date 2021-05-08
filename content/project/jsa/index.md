@@ -2,7 +2,7 @@
 title: JSA Website
 summary: A website for Japan Student Association at the University of Michigan.
 tags:
-- Web Development
+- Web
 - Club
 date: "2020-08-30T00:00:00Z"
 

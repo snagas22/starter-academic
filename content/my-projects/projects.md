@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Web Development
-    tag: Web Development
+  - name: Web
+    tag: Web
+  - name: Mobile App
+    tag: Mobile App
   - name: Club
     tag: Club
 
