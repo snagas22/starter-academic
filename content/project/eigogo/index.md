@@ -48,7 +48,7 @@ Especially in recent years, it is quite imperative to be able to speak English i
 
 Users can select a situation to focus on and will be navigated to a list of phrases appropriate for the chosen situation. Once they tap on one of the phrases, a modal will be presented with a description about the phrase and when to use it in Japanese. In addition, the green button is there to play a sample pronunciation for practice & for emergency use when travelling.
 
-The landing page is [here](https://eieigo5go.wixsite.com/kogeapp/app-1) (Note: It is mostly written in Japanese as my target audience is Japanese individuals).
+The landing page is [here](https://eieigo5go.wixsite.com/kogeapp/app-1) (Note: It is mostly written in Japanese as my target audience is Japanese individuals learning English).
 
 You can check out the app on the App Store from [here](https://apps.apple.com/us/app/eigogo/id1526730825).
 
