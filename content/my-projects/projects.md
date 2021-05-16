@@ -33,10 +33,12 @@ content:
     tag: Mobile App
   - name: Club
     tag: Club
+  - name: Personal
+    tag: Personal
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
